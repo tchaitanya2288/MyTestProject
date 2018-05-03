@@ -17,3 +17,9 @@ print(' ')
 print(tup4,type(tup4),len(tup4),id(tup4))
 print(' ')
 print(tup5,type(tup5),len(tup5),id(tup5))
+
+
+print(tup1[3])
+print(tup2[-2])
+print(tup1[:3])
+print(tup2[:4])
